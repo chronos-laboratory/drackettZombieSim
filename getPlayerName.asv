@@ -1,0 +1,11 @@
+function [playerName] = getPlayerName()
+%get the player's name
+playerName = input('what is your name?\n>>','s');
+clc
+pa
+fprintf('Hi %s, I''m the Drackett Zombie Sim Game',playerName)
+pause(2)
+fprintf('\nLet''s get started')
+pause(4)
+clc
+end

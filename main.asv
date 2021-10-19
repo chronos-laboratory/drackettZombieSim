@@ -10,8 +10,7 @@ floor_5 = ['odd elevators','even elevators', 'north stairs, west stairs, east st
 floor_4 = ['odd elevators','even elevators', 'north stairs, west stairs, east stairs'];
 floor_3 = ['odd elevators','even elevators', 'north stairs, west stairs, east stairs'];
 floor_2 = ['odd elevators','even elevators', 'north stairs, west stairs, east stairs'];
-%I'm going to need some fancy stair logic
-north_stairs = [ 'elevators', 'north hall', ''];
+north_stairs = ['8th floor', '7th floor', '6th floor', '5th floor', '4th floor', '3rd floor', '2nd floor', 'elevators', 'north hall', ''];
 west_stairs = [];
 east_stairs = [];
 common_room = [];
